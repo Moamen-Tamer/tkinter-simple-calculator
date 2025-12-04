@@ -7,7 +7,7 @@ It supports **dark and light themes** that you can switch using the theme button
 
 ## Features
 - Basic arithmetic: +, -, ×, ÷ (one operation at a time)
-- AC (clear), backspace, and % buttons
+- Clear (AC), backspace (↵), and percentage (%) buttons
 - Dark/Light mode toggle with icons
 - Realistic calculator layout
 
