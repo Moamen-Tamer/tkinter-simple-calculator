@@ -1,3 +1,7 @@
+```
+Mo'men Tamer El-Sayed Mosa | مؤمن تامر السيد موسى
+```
+
 # Simple Calculator (Tkinter)
 
 A simple calculator made with Python and Tkinter.  
