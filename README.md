@@ -1,5 +1,4 @@
-Name: ``` Mo'men Tamer El-Sayed Mosa | مؤمن تامر السيد موسى ```
-Section: ``` no.8 ```
+Name: ``` Mo'men Tamer El-Sayed Mosa | مؤمن تامر السيد موسى ``` | Section: ``` no.8 ```
 
 # Simple Calculator (Tkinter)
 
