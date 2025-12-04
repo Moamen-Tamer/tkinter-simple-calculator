@@ -1,6 +1,4 @@
-```
-Mo'men Tamer El-Sayed Mosa | مؤمن تامر السيد موسى
-```
+Name: ``` Mo'men Tamer El-Sayed Mosa | مؤمن تامر السيد موسى ``` الاسم: 
 
 # Simple Calculator (Tkinter)
 
