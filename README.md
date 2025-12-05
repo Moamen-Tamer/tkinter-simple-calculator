@@ -1,6 +1,6 @@
 * Name: ``` Mo'men Tamer El-Sayed Mosa | مؤمن تامر السيد موسى ``` 
 
-*Section: ``` no.8 ```
+* Section: ``` no.8 ```
 
 # Simple Calculator (Tkinter)
 
